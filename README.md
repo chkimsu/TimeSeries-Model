@@ -6,3 +6,5 @@
 > Transformer for time series data(Encoder-Decoder)
 
 > word2vec with time diff
+
+> Anomaly Detection with RRCF (ICML 2016)
